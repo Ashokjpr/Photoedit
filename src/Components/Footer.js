@@ -30,8 +30,7 @@ function Footer() {
             <h5>Follow Us</h5>
             <a href="#" className="text-light me-3"><i className="bi bi-facebook"></i></a>
             <a href="#" className="text-light me-3"><i className="bi bi-twitter"></i></a>
-            <a href="https://www.instagram.com/ashokkumar95751?igsh=MXFoeXYxNGlzbjNydw==" className="text-light"><i className="bi bi-instagram"></i></a>
-          <div className="mt-3">
+            <div className="mt-3">
             <Photoedit/>
           </div>
           </div>
